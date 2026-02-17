@@ -48,6 +48,11 @@ MySQL → Alteryx → SQL Validation → Power BI Dashboard → UAT Sign-off
 
 ---
 
+## Dashboard Snippet
+
+<img width="1246" height="715" alt="image" src="https://github.com/Mohit-03Sharma/Sales_Profit_Analysis/blob/main/dashboard%20img.png" />
+
+---
 ## Key Insights
 - ~18.7% of transactions are loss-making
 - Discounts above 30% significantly reduce profitability
@@ -64,7 +69,7 @@ All KPIs and visuals were validated against SQL queries. Formal UAT test cases w
 
 ---
 
-## usiness Recommendations
+## Business Recommendations
 - Introduce discount governance with a cap around 30%
 - Re-evaluate pricing strategies for loss-making sub-categories
 - Focus growth initiatives on high-performing regions and segments
